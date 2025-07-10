@@ -1,0 +1,259 @@
+body {
+    height: 100%;
+    width: 100%;
+    margin: 0;
+}
+
+.jay {
+    height: 40px;
+    width: 100%;
+    /* border: 10px solid red; */
+    background-image: radial-gradient(circle, red 0%, green 50%, yellow 100%);
+    display: flex;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    margin-top: 10px;
+}
+
+.first {
+    height: 100px;
+    width: 800px;
+    background-color: aqua;
+    border: 5px solid rgb(179, 161, 161);
+    border-radius: 20px;
+    display: flex;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    margin-top: 20px;
+    margin-left: 350px;
+}
+
+.big {
+    height: 220px;
+    width: 100%;
+    background-color: rgb(60, 205, 205);
+    border: 2px solid black;
+    border-radius: 30px;
+    margin-top: 20px;
+}
+
+.div1 {
+    height: 100px;
+    width: 25%;
+    background-color: aqua;
+    border: 5px solid green;
+    border-radius: 20px;
+    position: relative;
+    left: 100px;
+}
+
+.div2 {
+    height: 100px;
+    width: 25%;
+    background-color: aqua;
+    border: 5px solid green;
+    border-radius: 20px;
+    position: absolute;
+    right: 600px;
+    top: 200px;
+}
+
+.div3 {
+    height: 100px;
+    width: 25%;
+    background-color: aqua;
+    border: 5px solid green;
+    border-radius: 20px;
+    position: absolute;
+    right: 150px;
+    top: 200px;
+}
+
+.div4 {
+    height: 100px;
+    width: 25%;
+    background-color: aqua;
+    border: 5px solid green;
+    border-radius: 20px;
+    position: absolute;
+    right: 600px;
+}
+
+.jee {
+    height: 40px;
+    width: 100%;
+    background-image: radial-gradient(circle, red 0%, green 50%, yellow 100%);
+    display: flex;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    margin-top: 10px;
+}
+
+.main {
+    height: 200px;
+    width: 100%;
+    margin-top: 20px;
+    background-image: radial-gradient(circle, blue 0%, green 50%, black 80%);
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    font-size: x-large;
+}
+
+.card1 {
+    height: 150px;
+    width: 200px;
+    background-color: yellow;
+    color: red;
+    border: 5px solid red;
+    border-radius: 20px;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+}
+
+.card2 {
+    height: 150px;
+    width: 200px;
+    background-color: yellow;
+    color: red;
+    border: 5px solid red;
+    border-radius: 20px;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+}
+
+.card3 {
+    height: 150px;
+    width: 200px;
+    background-color: yellow;
+    color: red;
+    border: 5px solid red;
+    border-radius: 20px;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+}
+
+.card4 {
+    height: 150px;
+    width: 200px;
+    background-color: yellow;
+    color: red;
+    border: 5px solid red;
+    border-radius: 20px;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+}
+
+.section {
+    height: 40px;
+    width: 100%;
+    background-color: red;
+    display: flex;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    margin-top: 10px;
+}
+
+.sant {
+    height: 300px;
+    width: 80%;
+    margin-top: 10px;
+    background-color: white;
+    border: 3px solid black;
+}
+
+.sant2 {
+    height: 80px;
+    width: 20%;
+    background-color: rgb(51, 178, 51);
+    display: flex;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    margin-top: 15px;
+    font-size: x-large;
+}
+
+.sant3 {
+    height: 80px;
+    width: 20%;
+    background-color: cadetblue;
+    display: flex;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    margin-top: 10px;
+    position: absolute;
+    right: 960px;
+    top: 105%;
+    font-size: x-large;
+}
+
+.sant4 {
+    height: 80px;
+    width: 20%;
+    background-color: blue;
+    display: flex;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    margin-top: 10px;
+    position: absolute;
+    right: 650px;
+    top: 105%;
+    font-size: x-large;
+}
+
+.sant5 {
+    height: 190px;
+    width: 15%;
+    background-color: black;
+    display: flex;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    margin-top: 10px;
+    position: absolute;
+    right: 400px;
+    top: 105%;
+}
+
+.sant6 {
+    height: 100px;
+    width: 71%;
+    background-color: yellowgreen;
+    display: flex;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    margin-top: 10px;
+    font-size: x-large;
+}
+
+.sant7 {
+    height: 40px;
+    width: 100%;
+    background-image: radial-gradient(circle, red 0%, green 50%, yellow 100%);
+    display: flex;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    margin-top: 10px;
+}
